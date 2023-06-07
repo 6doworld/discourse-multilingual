@@ -2,7 +2,7 @@
 # name: discourse-multilingual
 # about: Features to support multilingual forums
 # version: 0.2.8
-# url: https://github.com/paviliondev/discourse-multilingual
+# url: https://github.com/6doworld/discourse-multilingual
 # authors: Angus McLeod, Robert Barrow
 # contact_emails: development@pavilion.tech
 
